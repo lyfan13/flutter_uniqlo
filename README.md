@@ -1,21 +1,7 @@
-<<<<<<< HEAD
-# uniqlo
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# flutter_uniqlo
-flutter版优衣库
->>>>>>> 0ea6c89e38acad812d6d794567a9342cc9cf7672
+# flutter版优衣库app
+### 根据https://www.ui.cn/detail/526243.html 的设计图大概样式写出来的app，在华为nova3测试样图：
+<img src="http://vue-upyun.test.upcdn.net/uniqloimg/home.jpg" width="200">
+<img src="http://vue-upyun.test.upcdn.net/uniqloimg/store.jpg" width="200">
+<img src="http://vue-upyun.test.upcdn.net/uniqloimg/cart.jpg" width="200">
+<img src="http://vue-upyun.test.upcdn.net/uniqloimg/detail.jpg" width="200">
+<img src="http://vue-upyun.test.upcdn.net/uniqloimg/user.jpg" width="200">
